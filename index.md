@@ -3,3 +3,7 @@
 ``` python
 var myVar = "Hello, world!";
 ```
+- [ ] get up
+- [ ] dance
+- [ ] jump
+- [ ] get down
